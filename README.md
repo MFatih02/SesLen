@@ -6,8 +6,7 @@ Bu uygulama, işitme engelli bireylerin sesli veya yazılı ifadeleri işaret di
 ## Ekip Üyeleri
 - Hüseyin Karabulut
 - Mustafa Fatih Yıldız
-- Salih Dal
-- Furkan Ülgen
+
 
 ## HEDEF KİTLE 
 - İşitme Engelli Bireyler ve onlarla iletişim halinde olan diğer bireyler
